@@ -1,11 +1,11 @@
 # Java_stanfordNER: Recherche d'entités nommées   
 
-Tâche à effectuer: 
+- Tâche à effectuer: 
      - Compréhension du fonctionnement de la classe StanfordCoreNLP ( voir plus bas )
      - Constitution d'un corpus de test
      - Définition d'une mini  API de recherche d'EN comprenant au moins:
-        * un constructeur ( pour donner l'adresse du corpus )
-        * une méthode pour lancer le calcul
+        -un constructeur ( pour donner l'adresse du corpus )
+        -une méthode pour lancer le calcul
         * des méthodes permettant de récupérer les infos de la recherche e. g.:
             * la liste des tags trouvés, 
             * pour une EN et un tag donné, la liste des textes les contenant
