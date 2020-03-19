@@ -18,7 +18,7 @@
     e. g. une nouvelle recherche est faite avant chaque interrogation
 
 
-La javadoc : http://nlp.stanford.edu/nlp/javadoc/javanlp/
-*BasicPipelineExample : http://stanfordnlp.github.io/CoreNLP/api.html
-chargement des "models" : http://stackoverflow.com/questions/14735212/specifying-a-path-to-models-for-stanfordcorenlp
-Demo ( dans la distrib ) : <yourdistrib>/stanford-corenlp-full-2016-10-31\stanford-corenlp-full-2016-10-31\StanfordCoreNlpDemo.java
+- La javadoc : http://nlp.stanford.edu/nlp/javadoc/javanlp/
+- *BasicPipelineExample : http://stanfordnlp.github.io/CoreNLP/api.html
+- chargement des "models" : http://stackoverflow.com/questions/14735212/specifying-a-path-to-models-for-stanfordcorenlp
+- Demo ( dans la distrib ) : <yourdistrib>/stanford-corenlp-full-2016-10-31\stanford-corenlp-full-2016-10-31\StanfordCoreNlpDemo.java
