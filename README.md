@@ -8,6 +8,7 @@
         - une méthode pour lancer le calcul
         - des méthodes permettant de récupérer les infos de la recherche e. g.:
             * la liste des tags trouvés, 
+            * les EN pour un texte précis
             * pour une EN et un tag donné, la liste des textes les contenant
             * Pour un tag donné, la liste de toutes les EN associées
         etc..
