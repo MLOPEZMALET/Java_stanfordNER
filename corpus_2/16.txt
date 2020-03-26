@@ -1,0 +1,40 @@
+Story:            mc160.dev.15
+Author:           3960091198
+Work Time(s):     725
+
+Jenny's family lived in a small apartment in Seattle.  One day Jenny came home from school
+and her mom told her that the family was moving to Utah.  Jenny was sad to leave her
+friends. Jenny was sad to leave her school.  Jenny helped her mom pack boxes and clean
+their apartment to get ready for the move.  Soon the day came when Jenny's dad brought a
+large truck to the parking lot and all of the family's things were put inside.  Jenny and
+her mom rode in their car and her dad drove the truck towards Utah.  Jenny loved getting
+to eat lots of yummy fast food on the way.  When the family got to their new home in Utah
+Jenny helped her parents to take all of the boxes into the house.  She loved her new
+bedroom!  When Jenny was emptying box of her toys there was a knock at the door.  It was
+a little girl who wanted Jenny to play! Jenny was going to like Utah!
+
+1: one: Who drove the truck?
+ A) Jenny
+ B) Jenny's Brother
+ C) Jenny's Mom
+*D) Jenny's Dad
+
+2: one: Where did Jenny live before she moved?
+ A) New York
+ B) Utah
+ C) Austin
+*D) Seattle
+
+3: multiple: What made Jenny happy about being in Utah?
+ A) the music
+ B) the pretty views
+ C) being with her mom
+*D) a little girl came to play
+
+4: multiple: Why was Jenny sad about the move?
+ A) She had to leave her stuff
+ B) She didn't want to leave her soccer team
+*C) She had to leave her friends and her school
+ D) She didn't want to leave her family
+
+

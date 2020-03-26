@@ -1,0 +1,48 @@
+Story:            mc160.dev.4
+Author:           2626224031
+Work Time(s):     2199
+
+My parents Kelly and Kelley said that it was that time of year to take a family
+vacation.  We've been to big ride parks that have hotels with large pools.  This year my
+parents wanted to do something different.  They wanted to take us all to Elk River Castle.
+
+After lots of planning we hit the road for our trip.  My Brother Kelsey and I enjoyed the
+long car ride there.
+  
+Once we arrive the castle looked much bigger than we had imagined.  There was so much to
+see and so much to do.  There was a swimming pool movie theater and an elevator to take
+us from floor to floor.  What a magical place!  I was so excited because we had the whole
+place to our family!
+  
+We spent our vacation playing around the huge castle and finding small mysterious places.
+There was even a tiny room in the back of one of the closets.  My brother Kelsey and I
+played hide and go seek for hours watched movies and swam until the sun went down.
+
+It was sad when our vacation finally came to an end but we made some amazing memories.
+We'll never forget our trip to Elk River Castle!
+
+1: one: What was my brother's name?
+ A) Kelly
+*B) Kelsey
+ C) Caden
+ D) Colby
+
+2: one: Where did we go?
+ A) Hood River Castle
+*B) Elk River Castle
+ C) White Fish Castle
+ D) White Salmon Castle
+
+3: multiple: What did the castle have?
+ A) A ball room
+*B) A movie theater
+ C) A gym
+ D) A hot tub
+
+4: multiple: What did we do at the castle?
+ A) Played ball
+ B) Fished
+*C) Swam in the swimming pool
+ D) Ran in the woods
+
+

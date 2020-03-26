@@ -1,0 +1,36 @@
+Story:            mc160.dev.16
+Author:           4251880037
+Work Time(s):     2649
+
+Mike and Jeff are close friends. Their school is having a guessing game to guess how many
+gumballs are in a box. If they get the right amount they win $100. If they get close they
+get a $20 gift card. The box looks like it is missing some gumballs. It turns out some
+people are eating them when they place their guess. 100 people guessed and took a piece of
+candy. The box is 10" by 10" by 10". Each gumball is 1" each. Mike guessed 500. Jeff
+guessed 800. They both said they would split their money they win if they win.
+
+1: multiple: Who is closer?
+ A) Both
+*B) Jeff
+ C) Mike
+ D) Neither
+
+2: one: How likely would it be for one of them to win?
+ A) 5/100
+ B) 10/100
+*C) 1/100
+ D) 100/100
+
+3: multiple: How likely would it be neither of them to win?
+ A) 89/99
+ B) 99/99
+ C) 99/100
+*D) 98/100
+
+4: multiple: What is the right amount?
+ A) 1000
+ B) 800
+*C) 900
+ D) 700
+
+

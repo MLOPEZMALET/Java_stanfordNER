@@ -1,0 +1,46 @@
+Story:            mc160.dev.23
+Author:           3048636168
+Work Time(s):     1252
+
+One day Magneson took a walk in the park.  He passed some trees and a pond.  In the pond
+was a duck named George.  George's wife was also in the pond.  Her name was Nancy.
+
+Magneson walked over to the tree.  Nancy flew up into the tree.  She wanted to warn
+Magneson about the killer squirrel who lived inside of the tree.  A few years before the
+squirrel had thrown a chestnut at George and Nancy's son.  He was knocked out and the
+squirrel took him away.  He was never seen again.
+
+Magneson asked what their son's name was.  They said it was Leonard.  But Magneson was
+only making small talk.  He didn't believe the story about the killer squirrel.  Even if
+there was one there were many rocks by the pond that he could throw at the squirrel.  He
+could also hide in the tall grass.
+
+George and Nancy were sorry to see that Magneson wouldn't listen.  They flew away singing
+a sad song.  A short time later the squirrel came out of the tree and threw a giant
+walnut at Magneson.  No one ever saw Magneson again.
+
+1: multiple: What was George's wife's name?
+ A) Magneson
+ B) George
+*C) Nancy
+ D) Leonard
+
+2: multiple: Who did the squirrel throw things at?
+ A) Nellie and George
+*B) Leonard and Magneson
+ C) George and Leonard
+ D) Magneson and Nellie
+
+3: one: What did the squirrel throw at Magneson?
+ A) a chestnut
+*B) a giant walnut
+ C) a duck
+ D) a rock
+
+4: one: Where did Magneson walk?
+ A) in the trees
+ B) in the pond
+*C) in the park
+ D) in the tall grass
+
+

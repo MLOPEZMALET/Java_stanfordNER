@@ -1,0 +1,44 @@
+Story:            mc160.dev.13
+Author:           1460358657
+Work Time(s):     867
+
+On the first day of school Mrs. Law asked all the students to write a story telling her
+what they did over the summer. She told the students that they were going to read them in
+front of the class. This was going to help everyone get to know more about each other.
+
+When all the students were done writing their stories Anna raised her hand to read hers
+first. Mrs. Law smiled at Anna's excitement to share her story with the class. She told
+all the students to sit down and listen to Anna.
+
+Anna started reading her story. All the other students quickly paid attention as her
+story was telling about her vacation to a park with lots of rides. Anna told them that she
+rode a huge ride called "Superman" which was her favorite. After Anna finished reading
+her story all the students clapped and said that they wished that they could hear
+more. Anna told them to tell their mommies and daddies to take them to visit the rides
+next summer.
+
+1: multiple: Why did the students have to read their stories to the class?
+ A) to get to know who had the best summer
+ B) to get to know Mrs. Law
+*C) to help them get to know more about each other
+ D) to get to know who had the best mommy and daddy
+
+2: one: What did the students have to write about?
+ A) the first day of school
+ B) Mrs. Law
+ C) Anna's summer vacation
+*D) what they did over the summer
+
+3: multiple: Why did Mrs. Law smile at Anna?
+ A) because Anna told the class a joke
+*B) because she raised her hand to read her story first
+ C) because Anna laughed
+ D) because Anna rode a huge ride
+
+4: one: What was the huge ride called that Anna told the class about?
+ A) Batman
+*B) Superman
+ C) there wasn't one
+ D) Jolly Green Giant
+
+

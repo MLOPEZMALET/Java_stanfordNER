@@ -1,0 +1,46 @@
+Story:            mc160.dev.27
+Author:           1429298732
+Work Time(s):     2461
+
+Tammy likes the park. There are swings at the park. There is a slide at the park.  
+
+Mary goes to the park with Tammy. They jump rope. They play tag. They like the park.
+
+Tammy and Mary have fun at the park. Tammy has a dog named Max. Tammy and Mary take Max to the park.
+
+Max likes the park. He chases rabbits. He chases a ball. Tammy throws the ball to Max. Mary throws the ball to Max.
+
+The park is no fun in the rain. Tammy and Mary cannot go to the park when it rains. Mother
+says no. They are sad when they cannot go to the park.
+
+Tammy and Mary play in the house when it rains. They play with dolls. They dress up and
+have a tea party.
+
+Today is sunny. Tammy and Mary can go to the park. Mother says yes. They can take Max to
+the park. They are happy when it is sunny.
+
+1: one: Who has a dog?
+ A) The park
+ B) Max
+*C) Tammy
+ D) Mary
+
+2: multiple: What do Tammy and Mary do when it rains?
+ A) go to the park
+*B) Play with dolls have a tea party
+ C) play ball
+ D) chase rabbits
+
+3: multiple: Who likes to go to the park?
+ A) Dolls
+ B) Mother
+*C) Tammy and Mary
+ D) The rabbits
+
+4: one: What is the the name of the dog?
+ A) Mother
+*B) Max
+ C) Tammy
+ D) Mary
+
+
